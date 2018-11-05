@@ -1,0 +1,2 @@
+# hjalp.piratar.is
+Byrjunarsíða
