@@ -9,7 +9,9 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
 
 Vertu með að kjósa: https://x.piratar.is
 
-Við með **13.000** manns á Facebook hóp sem heitir Pírataspjallið, en **aðeins 2.200** í kosningakerfinu!
+Það eru um **13.000** manns á Facebook hóp sem heitir Pírataspjallið, en **aðeins 2.200** í kosningakerfinu!
+
+Ef þú ert skráður notandi í Kosningakerfið, þá geturu notað það til að auðkenna þig á [Málefnaspjallið](https://spjall.piratar.is/)
 
 
 ## Kerfi pírata:
