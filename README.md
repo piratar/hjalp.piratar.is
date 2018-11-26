@@ -7,11 +7,11 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
 
 Það er hins vegar mikilvægara að fólk **skrái sig** í [kosningakerfið](https://x.piratar.is) okkar, og kjósi þar!
 
-Vertu með að kjósa: https://x.piratar.is
+Það er ekkert mál að skrá sig, þú þarft einungis að vita [íslykilinn](https://www.island.is/islykill/) þinn
 
-Það eru um **13.000** manns á Facebook hóp sem heitir Pírataspjallið, en **aðeins 2.200** í kosningakerfinu!
+* Þegar þetta er skrifað eru um **13.000** manns á Facebook hóp sem heitir Pírataspjallið, en **aðeins 2.200** í kosningakerfinu!
 
-Ef þú ert skráður notandi í Kosningakerfið, þá geturu notað það til að auðkenna þig á [Málefnaspjallið](https://spjall.piratar.is/)
+* Ef þú ert skráður notandi í Kosningakerfið, þá geturu einnig notað það til að auðkenna þig á [Málefnaspjallið](https://spjall.piratar.is/)
 
 
 ## Kerfi pírata:
