@@ -12,12 +12,12 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
 
 
 ## Hvernig er hægt að hjálpa?
+* Mæta á fundi: https://piratar.is/vidburdur
+* Kjósa í Kosningakerfinu og taka þátt í Spjallinu
 * Ef þú ert með frían Github aðgang, þá er meðal annars hægt að hjálpa með hluti eins og t.d:
    * Laga stafsetningarvillur á þessari síðu, og öllum þeim sem eru á https://github.com/piratar/
    * Bæta við nýjum upplýsingum og skjölun
    * Þróa kosningakerfið (krefst forritunarkunnáttu í Python/Django eða HTML/CSS)
-* Kjósa í Kosningakerfinu og taka þátt í Spjallinu
-* Mæta á málefnafundi: https://piratar.is/vidburdur
 * Lesa um Píratakóðann, Stefnu og Grunngildi https://github.com/piratar/stefna
 
 ## Kerfi pírata:
