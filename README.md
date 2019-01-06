@@ -18,6 +18,7 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
    * Þróa kosningakerfið (krefst forritunarkunnáttu í Python/Django eða HTML/CSS)
 * Kjósa í Kosningakerfinu og taka þátt í Spjallinu
 * Mæta á málefnafundi
+* Lesa um Píratakóðann, Stefnu og Grunngildi https://github.com/piratar/stefna
 
 ## Kerfi pírata:
 * Hérna er listi yfir **öll** kerfin okkar: https://kerfi.piratar.is/
