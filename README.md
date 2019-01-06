@@ -17,7 +17,7 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
    * Bæta við nýjum upplýsingum og skjölun
    * Þróa kosningakerfið (krefst forritunarkunnáttu í Python/Django eða HTML/CSS)
 * Kjósa í Kosningakerfinu og taka þátt í Spjallinu
-* Mæta á málefnafundi
+* Mæta á málefnafundi: https://piratar.is/vidburdur
 * Lesa um Píratakóðann, Stefnu og Grunngildi https://github.com/piratar/stefna
 
 ## Kerfi pírata:
