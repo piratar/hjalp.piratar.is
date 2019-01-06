@@ -2,7 +2,6 @@
 
 ## Píratar þarfnast þín!
 
-
 Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þar. 
 
 Það er hins vegar mikilvægara að fólk **skrái sig** í [kosningakerfið](https://x.piratar.is) okkar, og kjósi þar!
@@ -13,6 +12,14 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
 
 * Ef þú ert skráður notandi í Kosningakerfinu, þá skaltu nota það til að auðkenna þig á [Málefnaspjallið](https://spjall.piratar.is/)
 
+
+## Hvernig er hægt að hjálpa?
+* Ef þú ert með frían Github aðgang, þá er meðal annars hægt að hjálpa með hluti eins og t.d:
+   * Laga stafsetningarvillur á þessari síðu, og öllum þeim sem eru á https://github.com/piratar/
+   * Bæta við nýjum upplýsingum og skjölun
+   * Þróa kosningakerfið (krefst forritunarkunnáttu í Python/Django eða HTML/CSS)
+* Kjósa í Kosningakerfinu og taka þátt í Spjallinu
+* Mæta á málefnafundi
 
 ## Kerfi pírata:
 * Hérna er listi yfir **öll** kerfin okkar: https://kerfi.piratar.is/
