@@ -1,6 +1,4 @@
-# hjalp.piratar.is
-
-## Píratar þarfnast þín!
+# Píratar þarfnast þín!
 
 Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þar. 
 
