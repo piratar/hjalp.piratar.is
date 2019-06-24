@@ -33,6 +33,7 @@ Hér fyrir neðan eru tól sem við getum mælt með. (Listinn gæti tekið öru
 
 Skipulag:
 * NextCloud
+* [hackmd.io](hackmd.io) - Ritill til að skrifa Markdown í rauntíma samvinnslu með öðrum.
 
 Samskipti:
 * [Signal](https://signal.org)
