@@ -20,8 +20,23 @@ Píratar spjalla mikið saman á Facebook og er til fjöldinn allur af hópum þ
    * Þróa kosningakerfið (krefst forritunarkunnáttu í Python/Django eða HTML/CSS)
 
 
-## Kerfi pírata:
+## Kerfi Pírata:
 * Hérna er listi yfir **öll** kerfin okkar: https://kerfi.piratar.is/
 * Hérna eru lögin okkar https://log.piratar.is/
 * Hérna er málefnaspjallið í Discourse kerfinu https://spjall.piratar.is/
 * Hérna er smá kennslu efni: https://github.com/piratar/kennsla
+
+
+## Tól Pírata:
+Píratar nota ýmis tól fyrir samskipti og skipulag, or reynum við að notast við Frjálsan hugbúnað.
+Hér fyrir neðan eru tól sem við getum mælt með. (Listinn gæti tekið örum breytingum)
+
+Skipulag:
+* NextCloud
+
+Samskipti:
+* [Signal](https://signal.org)
+* [Telegram](https://telegram.org/) - Með fyrirvara því það er í eigu fyrirtækis?
+
+Tölvupóstur:
+* [ProtonMail](https://protonmail.com/)
