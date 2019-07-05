@@ -40,4 +40,4 @@ Samskipti:
 * [Telegram](https://telegram.org/) - Með fyrirvara því það er í eigu fyrirtækis?
 
 Tölvupóstur:
-* [ProtonMail](https://protonmail.com/)
+* [ProtonMail](https://protonmail.com/) ókeypis, dulkóðaður tölvupóstur, gerður af fólkinu hjá CERN
